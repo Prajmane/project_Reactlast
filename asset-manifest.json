@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project_Reactlast/static/css/main.6665f5e8.css",
+    "main.js": "/project_Reactlast/static/js/main.a8c8d0f4.js",
+    "index.html": "/project_Reactlast/index.html",
+    "main.6665f5e8.css.map": "/project_Reactlast/static/css/main.6665f5e8.css.map",
+    "main.a8c8d0f4.js.map": "/project_Reactlast/static/js/main.a8c8d0f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6665f5e8.css",
+    "static/js/main.a8c8d0f4.js"
+  ]
+}
